@@ -1,4 +1,5 @@
 This code uses data taken from data logging software to create visual graphs of tyre degradation. It uses the xml data taken from the data logging software, then through user inputs it then knows the length of the stint and how many stints to compare against. This data is then extrapolated by creating an equation for the race distance. Future work will be to add in pit length time, degradation behind dirty air and lap times of opponents to create the best strategy. 
+The Code is programmed in c# due to its accessibility. 
 I show the entire code below for people to critique and give feedback on who do not want to download the coad.
 using System;
 using System.Collections.Generic;
